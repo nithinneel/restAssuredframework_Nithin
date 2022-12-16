@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="UsingFramework.endToEndCreateDeleteAndVerifyPro">
+      <class name="interview.P2">
         <methods>
-          <include name="createPro"/>
+          <include name="getAllRequest"/>
         </methods>
-      </class> <!-- UsingFramework.endToEndCreateDeleteAndVerifyPro -->
+      </class> <!-- interview.P2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
